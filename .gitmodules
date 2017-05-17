@@ -1,0 +1,12 @@
+[submodule "blockchain-contract"]
+	path = blockchain-contract
+	url = https://shadofren@gitlab.com/shadofren/blockchain-contract.git
+[submodule "OP"]
+	path = OP
+	url = https://shadofren@gitlab.com/shadofren/OP.git
+[submodule "OEM"]
+	path = OEM
+	url = https://shadofren@gitlab.com/shadofren/OEM.git
+[submodule "MRO"]
+	path = MRO
+	url = https://shadofren@gitlab.com/shadofren/MRO.git
