@@ -10,3 +10,6 @@
 [submodule "MRO"]
 	path = MRO
 	url = https://shadofren@gitlab.com/shadofren/MRO.git
+[submodule "OEM2"]
+	path = OEM2
+	url = https://LifeArchitect@gitlab.com/LifeArchitect/OEM2.git
