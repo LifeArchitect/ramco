@@ -10,3 +10,6 @@
 [submodule "MRO"]
 	path = MRO
 	url = https://shadofren@gitlab.com/shadofren/MRO.git
+[submodule "mean_seed"]
+	path = mean_seed
+	url = https://LifeArchitect@gitlab.com/LifeArchitect/mean_seed.git
